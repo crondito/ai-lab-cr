@@ -3,9 +3,7 @@
 
 This is my personal lab for experimenting with Python, machine learning, neural networks, image/audio/text processing, and more. It runs locally using JupyterLab.
 
----
-
-### Setup
+## Setup
 
 1. **Clone the repository**
 
@@ -33,9 +31,7 @@ pip install -r requirements.txt
 jupyter lab
 ```
 
----
-
-### Reactivate Environment
+## Reactivate Environment
 
 ```
 cd <path/to/ai-lab>
