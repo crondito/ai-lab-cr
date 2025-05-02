@@ -100,14 +100,12 @@ model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=
 
 ---
 
-### **Exercises (Due: 5/24, 13:10)**  
+### **Exercises**  
 1. **Image Processing**:  
    - Submit a Jupyter notebook (`ipynb`) with grayscale conversion, binarization, and filtering results.  
 2. **MNIST Classification**:  
    - Train a model with/without normalization. Compare accuracy.  
    - Include training curves in the notebook.  
-
-**Filename**: `[StudentID]_MNIST.ipynb`.  
 
 ---
 
